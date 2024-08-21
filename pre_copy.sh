@@ -1,4 +1,4 @@
-#!/bin/bashi
+#!/bin/bash
 
 cp -r ./source/application/main/include ./ml-embedded-evaluation-kit/source/application/main
 cp -r ./source/application/tensorflow-lite-micro/include ./ml-embedded-evaluation-kit/source/application/tensorflow-lite-micro
